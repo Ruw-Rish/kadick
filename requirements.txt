@@ -1,0 +1,16 @@
+pystyle
+requests
+faker
+beautifulsoup4
+urllib3
+colorama
+termcolor
+aiohttp
+pyTelegramBotAPI
+deep-translator
+pycryptodome
+qrcode
+pytube
+zipfile36
+psutil
+whois
